@@ -3,6 +3,9 @@ Herkansing voor kernmodule 4
 Deze kernmodule heb ik in december al eerder herkanst, maar hierbij ontbrak een deel van de database kant.
 Deze is verbeterd en de SQL dump is dit keer wel aanwezig.
 
+# Kernmodule 4 documentatie Netwerking + database
+https://docs.google.com/document/d/1HBV8ObpNZhF4imS8jM6qoTOK3nFb5zby0PRGUoqMjnw/edit?usp=sharing
+
 # Kernmodule 4 herkansing
 ##### Mededeling voor Ton:
 De database scripts en dump zijn te vinden in "Hangman/DB"
